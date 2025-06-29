@@ -6,7 +6,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ![image](https://github.com/user-attachments/assets/924020ed-bc6f-4166-acdb-b6e2b09d1edc)
 
+![image](https://github.com/user-attachments/assets/5c1daf7b-1460-4db4-b075-a0175c925d4d)
 
+# mongo db reload data update agirum 
 
 First, run the development server:
 
