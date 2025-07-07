@@ -8,7 +8,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ![image](https://github.com/user-attachments/assets/5c1daf7b-1460-4db4-b075-a0175c925d4d)
 
-# mongo db reload data update agirum 
+# mongo db reload data then automatically they update 
 
 First, run the development server:
 
